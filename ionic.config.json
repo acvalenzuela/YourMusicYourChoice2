@@ -1,0 +1,7 @@
+{
+  "name": "YourMusicYourChoice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
